@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-swagger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "lowdb": "^1.0.0",
+    "morgan": "^1.10.0",
+    "nanoid": "^3.1.30",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
